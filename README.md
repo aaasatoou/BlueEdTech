@@ -1,6 +1,6 @@
 # BlueEdTech
 
-Repository for display and storage of the educational content developed at Blue Edtech. This repository covers the second module of the data science track. Most notebooks here are purely for educational purposes.
+Repository for display and storage of the educational content developed at Blue Edtech. This repository covers all modules of the data science track. Most notebooks here are purely for educational purposes.
 
 For well structured and documented projects, see the projects related to the Bootcamps held at BlueEdTech itself:
 
